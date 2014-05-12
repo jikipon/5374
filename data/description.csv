@@ -1,5 +1,5 @@
 label,sublabel,description,styles,bgcolor
-可燃ごみ,,,kanengomi.svg,#f08080
+可燃ごみ,,,img/kanengomi.svg,#f08080
 不燃ごみ,,,,#d3d3d3
 有害ごみ,,,,#ffffe0
 びん・かん類,,,,#afeeee
