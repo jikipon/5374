@@ -1,5 +1,8 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/kanengomi.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+可燃ごみ,,,kanengomi.svg,#f08080
+不燃ごみ,,,,#d3d3d3
+有害ごみ,,,,#ffffe0
+びん・かん類,,,,#afeeee
+紙・布類,,,,#98fb98
+ペットボトル,,,,#00bfff
+その他容器包装プラスチック,,,,#9370bd
