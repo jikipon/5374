@@ -1,6 +1,6 @@
 label,sublabel,description,styles,bgcolor
-可燃ごみ,,,,#f08080
-不燃ごみ,,,,#d3d3d3
+燃やせるごみ,,,,#f08080
+燃やせないごみ,,,,#d3d3d3
 有害ごみ,,,,#ffffe0
 びん・かん類,,,,#afeeee
 紙・布類,,,,#98fb98
